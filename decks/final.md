@@ -138,8 +138,8 @@
 | Sun, Dec 27 | 12:00 PM | 3h | Ikebukuro shopping & lunch | Toshima, Toukyou |
 | Sun, Dec 27 | 3:00 PM | 1h 40m | **Swallowtail Butler Cafe Afternoon Tea** | Toshima, Toukyou |
 | Sun, Dec 27 | 4:40 PM | 20m | `Ikebukuro Sta -(train)-> Shinjuku Sta` |  |
-| Sun, Dec 27 | 5:00 PM | 1h 15m | Shinjuku | Shinjuku, Toukyou |
-| Sun, Dec 27 | 6:15 PM | 1h 30m | **SQUARE ENIX Cafe & Shop SHINJUKU** | Shinjuku, Toukyou |
-| Sun, Dec 27 | 7:45 PM | 3h 15m | Shinjuku | Shinjuku, Toukyou |
+| Sun, Dec 27 | 5:00 PM | 1h 45m | Shinjuku | Shinjuku, Toukyou |
+| Sun, Dec 27 | 6:45 PM | 1h 30m | **SQUARE ENIX Cafe & Shop SHINJUKU** | Shinjuku, Toukyou |
+| Sun, Dec 27 | 8:15 PM | 2h 45m | Shinjuku | Shinjuku, Toukyou |
 | Sun, Dec 27 | 11:00 PM | 50m | `Shinjuku Sta -(train,train)-> Aoto Sta` |  |
 | Sun, Dec 27 | 11:50 PM |  | Sleep |  |
